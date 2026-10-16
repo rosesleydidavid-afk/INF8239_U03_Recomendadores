@@ -1,0 +1,35 @@
+{
+  "popularity": {
+    "global_mean": 3.5016,
+    "smoothing_constant_m": 12.0,
+    "eligible_movies": 1967,
+    "catalog_movies": 9742,
+    "catalog_share": 0.2019
+  },
+  "content_queries": [
+    {
+      "query": "Toy Story (1995)",
+      "query_genres": "Adventure|Animation|Children|Comedy|Fantasy",
+      "top_score": 1.0,
+      "movies_tied_at_top_score": 12,
+      "top10_with_identical_genres": 10,
+      "top10_distinct_genre_sets": 1
+    },
+    {
+      "query": "Matrix, The (1999)",
+      "query_genres": "Action|Sci-Fi|Thriller",
+      "top_score": 1.0,
+      "movies_tied_at_top_score": 42,
+      "top10_with_identical_genres": 10,
+      "top10_distinct_genre_sets": 1
+    },
+    {
+      "query": "Titanic (1997)",
+      "query_genres": "Drama|Romance",
+      "top_score": 1.0,
+      "movies_tied_at_top_score": 348,
+      "top10_with_identical_genres": 10,
+      "top10_distinct_genre_sets": 1
+    }
+  ]
+}

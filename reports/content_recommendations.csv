@@ -1,0 +1,31 @@
+query,movieId,title,genres,content_score
+Toy Story (1995),4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),2294,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),3754,"Adventures of Rocky and Bullwinkle, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),45074,"Wild, The (2006)",Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),103755,Turbo (2013),Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),166461,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,1.0
+Toy Story (1995),136016,The Good Dinosaur (2015),Adventure|Animation|Children|Comedy|Fantasy,1.0
+"Matrix, The (1999)",75985,Repo Men (2010),Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",172,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",5903,Equilibrium (2002),Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",379,Timecop (1994),Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",4887,"One, The (2001)",Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",4443,Outland (1981),Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",79057,Predators (2010),Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",51412,Next (2007),Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",140956,Ready Player One,Action|Sci-Fi|Thriller,1.0000000000000002
+"Matrix, The (1999)",92420,Chronicle (2012),Action|Sci-Fi|Thriller,1.0000000000000002
+Titanic (1997),3094,Maurice (1987),Drama|Romance,1.0000000000000002
+Titanic (1997),6770,My Life Without Me (2003),Drama|Romance,1.0000000000000002
+Titanic (1997),534,Shadowlands (1993),Drama|Romance,1.0000000000000002
+Titanic (1997),3453,Here on Earth (2000),Drama|Romance,1.0000000000000002
+Titanic (1997),6939,Gloomy Sunday (Ein Lied von Liebe und Tod) (1999),Drama|Romance,1.0000000000000002
+Titanic (1997),71579,"Education, An (2009)",Drama|Romance,1.0000000000000002
+Titanic (1997),71823,"New York, I Love You (2009)",Drama|Romance,1.0000000000000002
+Titanic (1997),3475,"Place in the Sun, A (1951)",Drama|Romance,1.0000000000000002
+Titanic (1997),71902,Spread (2009),Drama|Romance,1.0000000000000002
+Titanic (1997),6883,Sylvia (2003),Drama|Romance,1.0000000000000002
