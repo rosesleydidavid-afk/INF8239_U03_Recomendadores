@@ -1,0 +1,78 @@
+{
+  "users": 610,
+  "evaluable_users": 587,
+  "users_with_cold_item_target": 23,
+  "users_with_tied_last_timestamp": 94,
+  "train_ratings": 100226,
+  "candidate_universe_items": 9701,
+  "k": 10,
+  "hybrid_candidate_pool": 100,
+  "tie_break_rule": "a igual puntuación gana el ítem de menor índice",
+  "popularity_smoothing_m": 12.0,
+  "rmse_global_mean": 1.1156660882916472,
+  "rmse_smoothed_item_mean": 1.0464570021140946,
+  "cold_start": {
+    "fallback_0_ratings": {
+      "users": 59,
+      "hit_rate@10": 0.03389830508474576,
+      "ndcg@10": 0.012401805995548717,
+      "mrr": 0.01076890518817208
+    },
+    "popularity_after_5_ratings": {
+      "users": 59,
+      "hit_rate@10": 0.03389830508474576,
+      "ndcg@10": 0.012646464997612234,
+      "mrr": 0.011051363139028658
+    },
+    "content_after_5_ratings": {
+      "users": 59,
+      "hit_rate@10": 0.0,
+      "ndcg@10": 0.0,
+      "mrr": 0.0014214497412138715
+    },
+    "random": {
+      "users": 59,
+      "hit_rate@10": 0.0,
+      "ndcg@10": 0.0,
+      "mrr": 0.0004326162732628524
+    },
+    "note": "Usuarios retirados por completo del entrenamiento. La factorización no puede puntuarlos; se compara el respaldo de popularidad con un perfil de contenido de 5 valoraciones."
+  },
+  "profile_model": {
+    "factors": 20,
+    "seed": 42
+  },
+  "profile_alphas": [
+    0.25,
+    0.75
+  ],
+  "profile_overlap_between_first_and_last_alpha": {
+    "historial_amplio": 0.4,
+    "historial_pequeno": 0.6
+  },
+  "arguments": {
+    "factors": [
+      10,
+      20,
+      40
+    ],
+    "seeds": [
+      42,
+      43,
+      44
+    ],
+    "epochs": 12,
+    "alphas": [
+      0.25,
+      0.75
+    ],
+    "max_users": 0
+  },
+  "environment": {
+    "python": "3.12.14",
+    "os": "Windows-11-10.0.26300-SP0",
+    "processor": "Intel64 Family 6 Model 122 Stepping 8, GenuineIntel",
+    "numpy": "2.5.3",
+    "pandas": "2.3.3"
+  }
+}

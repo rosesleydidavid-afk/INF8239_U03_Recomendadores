@@ -1,0 +1,51 @@
+profile,user_id,history_size,method,personalized,rank,movieId,title,genres
+historial_amplio,414,2697,híbrido alpha=0.25,True,1,92259,Intouchables (2011),Comedy|Drama
+historial_amplio,414,2697,híbrido alpha=0.25,True,2,1203,12 Angry Men (1957),Drama
+historial_amplio,414,2697,híbrido alpha=0.25,True,3,898,"Philadelphia Story, The (1940)",Comedy|Drama|Romance
+historial_amplio,414,2697,híbrido alpha=0.25,True,4,2324,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War
+historial_amplio,414,2697,híbrido alpha=0.25,True,5,3462,Modern Times (1936),Comedy|Drama|Romance
+historial_amplio,414,2697,híbrido alpha=0.25,True,6,1300,My Life as a Dog (Mitt liv som hund) (1985),Comedy|Drama
+historial_amplio,414,2697,híbrido alpha=0.25,True,7,1244,Manhattan (1979),Comedy|Drama|Romance
+historial_amplio,414,2697,híbrido alpha=0.25,True,8,6001,"King of Comedy, The (1983)",Comedy|Drama
+historial_amplio,414,2697,híbrido alpha=0.25,True,9,3307,City Lights (1931),Comedy|Drama|Romance
+historial_amplio,414,2697,híbrido alpha=0.25,True,10,3266,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller
+historial_amplio,414,2697,híbrido alpha=0.75,True,1,2324,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War
+historial_amplio,414,2697,híbrido alpha=0.75,True,2,1203,12 Angry Men (1957),Drama
+historial_amplio,414,2697,híbrido alpha=0.75,True,3,914,My Fair Lady (1964),Comedy|Drama|Musical|Romance
+historial_amplio,414,2697,híbrido alpha=0.75,True,4,92259,Intouchables (2011),Comedy|Drama
+historial_amplio,414,2697,híbrido alpha=0.75,True,5,1230,Annie Hall (1977),Comedy|Romance
+historial_amplio,414,2697,híbrido alpha=0.75,True,6,898,"Philadelphia Story, The (1940)",Comedy|Drama|Romance
+historial_amplio,414,2697,híbrido alpha=0.75,True,7,1219,Psycho (1960),Crime|Horror
+historial_amplio,414,2697,híbrido alpha=0.75,True,8,44555,"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller
+historial_amplio,414,2697,híbrido alpha=0.75,True,9,1287,Ben-Hur (1959),Action|Adventure|Drama
+historial_amplio,414,2697,híbrido alpha=0.75,True,10,74458,Shutter Island (2010),Drama|Mystery|Thriller
+historial_pequeno,53,19,híbrido alpha=0.25,True,1,5673,Punch-Drunk Love (2002),Comedy|Drama|Romance
+historial_pequeno,53,19,híbrido alpha=0.25,True,2,5377,About a Boy (2002),Comedy|Drama|Romance
+historial_pequeno,53,19,híbrido alpha=0.25,True,3,1230,Annie Hall (1977),Comedy|Romance
+historial_pequeno,53,19,híbrido alpha=0.25,True,4,5902,Adaptation (2002),Comedy|Drama|Romance
+historial_pequeno,53,19,híbrido alpha=0.25,True,5,272,"Madness of King George, The (1994)",Comedy|Drama
+historial_pequeno,53,19,híbrido alpha=0.25,True,6,63082,Slumdog Millionaire (2008),Crime|Drama|Romance
+historial_pequeno,53,19,híbrido alpha=0.25,True,7,6650,Kind Hearts and Coronets (1949),Comedy|Drama
+historial_pequeno,53,19,híbrido alpha=0.25,True,8,1954,Rocky (1976),Drama
+historial_pequeno,53,19,híbrido alpha=0.25,True,9,41285,Match Point (2005),Crime|Drama|Romance
+historial_pequeno,53,19,híbrido alpha=0.25,True,10,858,"Godfather, The (1972)",Crime|Drama
+historial_pequeno,53,19,híbrido alpha=0.75,True,1,858,"Godfather, The (1972)",Crime|Drama
+historial_pequeno,53,19,híbrido alpha=0.75,True,2,1230,Annie Hall (1977),Comedy|Romance
+historial_pequeno,53,19,híbrido alpha=0.75,True,3,1208,Apocalypse Now (1979),Action|Drama|War
+historial_pequeno,53,19,híbrido alpha=0.75,True,4,63082,Slumdog Millionaire (2008),Crime|Drama|Romance
+historial_pequeno,53,19,híbrido alpha=0.75,True,5,1954,Rocky (1976),Drama
+historial_pequeno,53,19,híbrido alpha=0.75,True,6,41285,Match Point (2005),Crime|Drama|Romance
+historial_pequeno,53,19,híbrido alpha=0.75,True,7,1213,Goodfellas (1990),Crime|Drama
+historial_pequeno,53,19,híbrido alpha=0.75,True,8,924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi
+historial_pequeno,53,19,híbrido alpha=0.75,True,9,5673,Punch-Drunk Love (2002),Comedy|Drama|Romance
+historial_pequeno,53,19,híbrido alpha=0.75,True,10,2671,Notting Hill (1999),Comedy|Romance
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,1,356,Forrest Gump (1994),Comedy|Drama|Romance|War
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,2,318,"Shawshank Redemption, The (1994)",Crime|Drama
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,3,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,4,2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,5,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,6,260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,7,110,Braveheart (1995),Action|Drama|War
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,8,480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,9,589,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+usuario_nuevo,611,0,respaldo: popularidad por cantidad (no personalizada),False,10,2959,Fight Club (1999),Action|Crime|Drama|Thriller
