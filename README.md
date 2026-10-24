@@ -92,3 +92,26 @@ Esta declaración debe ser **verdadera**. Antes de entregar, revisar cada línea
 
 ## Licencia y atribución
 El código de este repositorio es de uso académico. MovieLens: F. Maxwell Harper y Joseph A. Konstan, *The MovieLens Datasets: History and Context*, ACM TiiS 5(4), 2015. Sujeto a la licencia de GroupLens.
+
+## Declaración de uso de IA (continuación): prompts, verificaciones y correcciones
+
+**Prompts relevantes** (mensajes míos, resumidos; la sesión completa se conserva)
+- Pegué el mandato y la rúbrica del Ejercicio 05 y los manuales LAB08 y LAB09, y pedí avanzar paso a paso, mostrando un checklist, como si yo no supiera nada.
+- Pegué la salida real de cada comando que ejecuté (descarga y auditoría, LAB08, corrida rápida y completa de LAB09, pruebas, Git) para que se interpretara.
+- Pedí revisar el proyecto base contra la rúbrica antes de modificarlo.
+
+**Correcciones hechas durante el trabajo** (errores detectados y arreglados)
+- El proyecto base evaluaba solo el híbrido: se añadió la comparación de popularidad, contenido, factorización, híbrido y azar con el mismo corte y universo.
+- El script no tenía semillas ni arranque en frío: se añadieron tres semillas y usuarios retirados del entrenamiento.
+- La fecha, la URL y el hash de la descarga solo se imprimían: ahora se guardan en `reports/dataset_provenance.json`.
+- El `.gitignore` base excluía `reports/`, que es la evidencia: se corrigió; `data/raw/` sigue excluido.
+- La comparación de géneros en LAB08 se hacía como texto y se cambió a conjuntos.
+- El azar entraba en la frontera de Pareto: se excluyó por ser un piso de referencia.
+- El perfil de usuarios se mostraba solo para un alpha y con un modelo arbitrario: ahora se muestra para ambos alphas con el modelo de 20 factores.
+
+**Qué verificó la IA y qué verifiqué yo**
+- La IA probó el código con datos sintéticos (pruebas y corridas rápidas); no tuvo acceso a MovieLens real.
+- Yo ejecuté el código con los datos reales en mi computadora, obtuve `19 passed` y la corrida completa, y generé el notebook con los resultados guardados.
+- Los números del README, de la System Card y del PDF se copiaron de `reports/` y de las salidas reales que pegué.
+
+**Qué no se inventó:** no hay referencias ni resultados fabricados; la única fuente externa es MovieLens (GroupLens), citada arriba.
